@@ -18,10 +18,11 @@
 
 .quizz_questions{
   display: flex;
+
   justify-content: center;
   align-items: center;
-  border:1px solid #4224d9;
   border-radius: 8px;
+  box-shadow: rgba(73, 73, 73, 0.596) 0px 0px 10px;
   background-color: #644ED2;
   width: 100%;
   height: 200px;
@@ -32,6 +33,7 @@
 
 .quizz_options{
   display: flex;
+  gap: 10px;
   flex-wrap: wrap;
   justify-content: center;
   margin: auto;
@@ -39,22 +41,21 @@
 }
 
 .btn-option{
-  background-color: transparent;
+  background-color: #33286b;
   border-radius: 8px;
-  border: 1px solid #18ab29;
-  width: 50%;
+  width: 40%;
   display: inline-block;
   cursor: pointer;
   color: #ffffff;
   font-family: Arial;
   font-size: 17px;
-  padding: 16px 31px;
+  padding: 14px 22px;
   text-decoration: none;
   text-shadow: 0px 1px 0px #2f6627;
 }
 
 .btn-option:hover{
-  background-color: #5cbf2a;
+  background-color: #55a82cc7;
 }
 
 .btn-option:active{
@@ -65,7 +66,7 @@
 .quizz_results{
   width: 100%;
   height: 350px;
-  background-color: #1F0539;
+  background-color: #310a58;
   border-radius: 10px;
   padding: 30px;
   display: flex;

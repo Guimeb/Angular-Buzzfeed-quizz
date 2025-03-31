@@ -1,55 +1,111 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
-  "questions":[
+  "title": "Descubra o seu perfil musical!",
+  "questions": [
     {
-      "id":1,
-      "question": "Qual super poder você escolheria ?",
-      "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      "id": 1,
+      "question": "Qual instrumento musical você escolheria tocar?",
+      "options": [
+        { "id": 1, "name": "Guitarra elétrica", "alias": "A" },
+        { "id": 2, "name": "Teclado", "alias": "B" },
+        { "id": 3, "name": "Microfone", "alias": "C" },
+        { "id": 4, "name": "Sintetizador", "alias": "D" }
       ]
     },
     {
-      "id":2,
-      "question": "Quem você salvaria primeiro ?",
-      "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+      "id": 2,
+      "question": "Qual ambiente você prefere para um show?",
+      "options": [
+        { "id": 1, "name": "Estádio ao ar livre", "alias": "A" },
+        { "id": 2, "name": "Clube intimista", "alias": "B" },
+        { "id": 3, "name": "Batalha de rap na rua", "alias": "C" },
+        { "id": 4, "name": "Rave em espaço industrial", "alias": "D" }
       ]
     },
     {
-      "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
-      "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      "id": 3,
+      "question": "Qual roupa você usaria para um show?",
+      "options": [
+        { "id": 1, "name": "Jaqueta de couro e jeans rasgados", "alias": "A" },
+        { "id": 2, "name": "Look fashion e colorido", "alias": "B" },
+        { "id": 3, "name": "Estilo streetwear urbano", "alias": "C" },
+        { "id": 4, "name": "Traje futurista com acessórios neon", "alias": "D" }
       ]
     },
     {
-      "id":4,
-      "question": "Qual o seu maior foco ?",
-      "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+      "id": 4,
+      "question": "Qual ritmo te faz levantar e dançar?",
+      "options": [
+        { "id": 1, "name": "Rock and Roll", "alias": "A" },
+        { "id": 2, "name": "Pop animado", "alias": "B" },
+        { "id": 3, "name": "Batidas de Hip-Hop", "alias": "C" },
+        { "id": 4, "name": "Eletrônica pulsante", "alias": "D" }
       ]
     },
     {
-      "id":5,
-      "question": "Qual o seu apelido de super ser ?",
-      "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      "id": 5,
+      "question": "Como você descreveria sua vibe musical?",
+      "options": [
+        { "id": 1, "name": "Intenso e apaixonado", "alias": "A" },
+        { "id": 2, "name": "Divertido e descontraído", "alias": "B" },
+        { "id": 3, "name": "Ousado e expressivo", "alias": "C" },
+        { "id": 4, "name": "Energético e experimental", "alias": "D" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Qual desses artistas você mais admira?",
+      "options": [
+        { "id": 1, "name": "Led Zeppelin", "alias": "A" },
+        { "id": 2, "name": "Beyoncé", "alias": "B" },
+        { "id": 3, "name": "Kendrick Lamar", "alias": "C" },
+        { "id": 4, "name": "Daft Punk", "alias": "D" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Qual elemento da performance não pode faltar para você?",
+      "options": [
+        { "id": 1, "name": "Solo de guitarra marcante", "alias": "A" },
+        { "id": 2, "name": "Coreografia sincronizada", "alias": "B" },
+        { "id": 3, "name": "Rimas afiadas", "alias": "C" },
+        { "id": 4, "name": "Visual e efeitos inovadores", "alias": "D" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Como você descreveria sua personalidade musical?",
+      "options": [
+        { "id": 1, "name": "Rebelde e autêntico", "alias": "A" },
+        { "id": 2, "name": "Moderno e vibrante", "alias": "B" },
+        { "id": 3, "name": "Expressivo e urbano", "alias": "C" },
+        { "id": 4, "name": "Inovador e futurista", "alias": "D" }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Qual estilo de capa de álbum mais te atrai?",
+      "options": [
+        { "id": 1, "name": "Ilustrações sombrias e intensas", "alias": "A" },
+        { "id": 2, "name": "Fotos glamourosas e modernas", "alias": "B" },
+        { "id": 3, "name": "Design urbano com grafites", "alias": "C" },
+        { "id": 4, "name": "Arte digital futurista", "alias": "D" }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Onde seria o seu palco ideal?",
+      "options": [
+        { "id": 1, "name": "Festival de rock ao ar livre", "alias": "A" },
+        { "id": 2, "name": "Concerto em uma arena pop", "alias": "B" },
+        { "id": 3, "name": "Evento de rap e cultura urbana", "alias": "C" },
+        { "id": 4, "name": "Noite eletrônica em clube futurista", "alias": "D" }
       ]
     }
   ],
-  "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+  "results": {
+    "A": "Seu perfil musical é Rock: você é apaixonado, autêntico e vive intensamente a energia do rock!",
+    "B": "Seu perfil musical é Pop: você irradia modernidade, charme e contagia com seu estilo vibrante!",
+    "C": "Seu perfil musical é Hip-Hop: sua personalidade é ousada, expressiva e repleta de atitude urbana!",
+    "D": "Seu perfil musical é Eletrônica: você é inovador, experimental e se destaca pela vibração futurista!"
   }
 }

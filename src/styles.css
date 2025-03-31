@@ -4,7 +4,8 @@
   margin:0;
   border:0;
   box-sizing: border-box;
-  color:antiquewhite;
+  font-family: Proxima Nova, sans-serif;
+  color:rgb(255, 255, 255);
 }
 
 body{
